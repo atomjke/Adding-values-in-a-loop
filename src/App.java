@@ -19,9 +19,9 @@ public class App {
 
             inputNumber = input.nextInt();
         }
-
-        System.out.println("The total is " + sum + ".");
         
         input.close();
+
+        System.out.println("The total is " + sum + ".");
     }
 }
