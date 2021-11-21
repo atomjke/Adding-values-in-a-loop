@@ -4,8 +4,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         Scanner input = new Scanner(System.in);
 
-        int inputNumber; 
-        int sum = 0;
+        int inputNumber, sum = 0;
 
         System.out.println("I will add up the numbers you give me.");
         System.out.print("Number: ");
